@@ -1,7 +1,8 @@
 KUSH VACHHER
 
-[kush.vachher@gmail.com ](mailto:kush.vachher@gmail.com)⋄[https://www.linkedin.com/in/kushvachher/ ](https://www.linkedin.com/in/kushvachher/)⋄[https://github.com/kvachher ](https://github.com/kvachher)EDUCATION
+[kush.vachher@gmail.com ](mailto:kush.vachher@gmail.com)⋄[https://www.linkedin.com/in/kushvachher/ ](https://www.linkedin.com/in/kushvachher/)⋄[https://github.com/kvachher ](https://github.com/kvachher)
 
+EDUCATION
 |<p>B.S. Computer Science, University of Maryland - College Park, MD Expected May 2026 Minor: Mathematics; Track: Machine Learning</p><p>Relevant Coursework: Data Structures, Algorithms, Computer Systems, Organization of Programming Languages. GPA: 3.8.</p><p>EXPERIENCE</p>|
 | :- |
 |<p>Capital One June 2024 - Present Software Engineering Intern Richmond, VA</p><p>- Led the migration of Internal API to Serverless AWS Fargate, enhancing operational efficiency and reducing costs by 31%</p><p>- Developed and utilized deep knowledge of containerization to build out Bogiefiles and deploy cloud-based resources</p><p>xFoundry@UMD January 2024 - Present Product Engineer College Park, MD</p><p>- Chosen among 30 students for a 15-month interdisciplinary program focused on developing a Minimum Viable Product to tackle the grand challenge of school safety</p><p>- Leveraged Artificial Intelligence Tools for precise event detection and swift alerts, supported by seamless cloud integration for secure data storage and sharing with law enforcement</p><p>UMD FIRE August 2022 - December 2023 Sustainability Analytics Researcher College Park, MD</p><p>- Developed an advanced algorithm in R to process and analyze wind data using sophisticated mathematical techniques, enhancing the accuracy of pollution impact studies</p><p>- Collected, cleaned, and wrangled large datasets, enabling precise regression analyses to assess the relationship between air pollution and violent crime rates in Baltimore City</p><p>PROJECTS</p>|
